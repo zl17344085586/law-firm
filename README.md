@@ -1,6 +1,7 @@
                                                          律师事务所管理系统的设计与实现
 # law-firm
 参考文献：
+
 [1]田陕宁. 律师事务所管理系统的设计与实现[D].西安电子科技大学,2016.
 [2]曾旭.律师事务所文案信息管理系统设计[J].电脑编程技巧与维护,2019(12):114-115+126.DOI:10.16184/j.cnki.comprg.2019.12.042.
 [3]卢伟. 蜀西律师事务所管理系统的设计与实现[D].电子科技大学,2015.
@@ -10,6 +11,7 @@
 
 
 摘要：
+
   本文以律师事务所为关键词，将设计一个管理系统，用于管理律师事务所的人员调动，财物管理，案件审理，收支明细，办公场所等等一些项目。
   当然，设计管理系统应该注意以下的事项：
   1.完备性
@@ -25,6 +27,7 @@
   计算机技术的特点及发展方向决定了它必须方便用户的使用，节省时间和费用，提高效率，只有这样才有其存在的价值和市场。系统用户文化程度参差不齐，低学历所占比例较大，因此系统必须具   有友好的用户界面便于用户操作，易于用户学习掌握。
 
 abstract:
+
   This article takes law firms as the keywords, and will design a management system to manage law firms' personnel transfers, financial management, case hearing, income and expenditure details, office space and other items.
   Of course, the design management system should pay attention to the following things:
   1. Completeness
