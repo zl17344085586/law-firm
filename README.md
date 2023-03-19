@@ -171,6 +171,7 @@ abstract:
 
 3.2 数据流图分析
 
+![image](https://user-images.githubusercontent.com/126448016/226190872-5d1bf5e8-c62d-4192-9044-0fa164c2c9b8.png)
 
 
 
